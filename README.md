@@ -5,4 +5,4 @@ OraiMunka
 3. git commit -m "hol történt változás"
 /*git push local main*/
 4. git push origin main
-/*main "token code"*/
+/*"token code"-ot kéri majd amit létre kell hozni az oldalon*/

@@ -19,4 +19,4 @@ OraiMunka
    *ezt egybéként meg lehet nézni a "git branch" paranccsal*
    *"git branch -m main" modify-olom és master helyett mostmár main lesz, ezt újra tudjuk ellenőrizni a "get branch" paranccsal*
    *"git fetch origin master"*
-   *git merge master*
+   *"git merge master"*

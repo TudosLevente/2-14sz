@@ -16,3 +16,4 @@ OraiMunka
 *ezt meg lehet adni, ha a következő kódot hasznűljuk*
 4. git remote add origin "github code részből a linket kimásoljuk"
 5. git push origin master *azért nem lehet master helyett main-t használni, mert lokális depositoryban voltunk!!!*
+6. *ezt egybéként meg lehet nézni a "git branch" paranccsal*

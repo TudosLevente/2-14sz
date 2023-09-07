@@ -15,4 +15,4 @@ OraiMunka
 *git push origin main-t most nem lehet használni - meg kell mondani, hova szeretném bekötni ezt a lokális depository-t*
 *ezt meg lehet adni, ha a következő kódot hasznűljuk*
 4. git remote add origin "github code részből a linket kimásoljuk"
-5. git push origin main
+5. git push origin master

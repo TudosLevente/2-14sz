@@ -39,8 +39,8 @@ OraiMunka
 *git merge master* =====> ???
 *-------------------------------------------------------------------------------------------------------*
 *--------------------TERMINAL COMMANDS--------------------*
-*ls* =====> A jelenlegi mappában lévő fájlok és mappákat tudjuk kilistázni vele.
-*cd /folder you want to go to/* =====> Egy 
+*ls* =====> A jelenlegi könyvtárban lévő fájlok és mappákat tudjuk kilistázni vele.
+*cd /folder you want to go to/* =====> Könyvtárak között tudunk vele lépkedni.
 *cd..* =====> Visszalépés a jelenlegi könyvtárból a följebb lévő könyvtárba.
 *mkdir "folder name"* =====> Egy új mappa létrehozása.
 *rmdir "folder name"* =====> Egy bizonyos mappa törlése.

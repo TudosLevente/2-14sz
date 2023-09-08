@@ -22,7 +22,7 @@ OraiMunka
    *"git merge master"*
 
 --------------------GIT-TERMINAL COMMANDS--------------------
-1. git clone https://github.com/accountname/projectname =====> Leklónozod a depository-t abba a mappába, amelyikben éppen vagy a terminálon belül.
+1. git clone https://github.com/accountname/projectname =====> Leklónozod a depository-t abba a könyvtárba, amelyikben éppen vagy a terminálon belül.
 2. git add . =====> ???
 3. git init =====> ???
 4. git checkout -b "name" =====> Egy új branch ág létrehozása.

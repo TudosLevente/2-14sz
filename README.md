@@ -23,25 +23,25 @@ OraiMunka
 
 -------------------------------------------------------------------------------------------------------
 --------------------GIT COMMANDS--------------------
-git clone https://github.com/accountname/projectname =====> Leklónozod a depository-t abba a mappába, amelyikben éppen vagy a terminálon belül.
-git add . =====> ???
-git init =====> ???
-git checkout -b "name" =====> Egy új branch ág létrehozása.
-git commit -m "something" =====> Commenteled, hogy mit változtattál.
-git push origin main =====> ???
-git push origin "branch name" =====> ???
-git remote add origin "https://github.com/youraccount/projectname" =====> ???
-git log =====> ???
-git remote set-url origin https://username:token@github.com/username/repository.git =====> ???
-git branch =====> Ellenőrizni tudjuk az águnk jelenlegi jogosultságát.
-git branch -m main =====> Modify-olod a branch ág jogosultságát és master helyett mostmár main lesz.
-git fetch origin master =====> ???
-git merge master =====> ???
+1. git clone https://github.com/accountname/projectname =====> Leklónozod a depository-t abba a mappába, amelyikben éppen vagy a terminálon belül.
+2. git add . =====> ???
+3. git init =====> ???
+4. git checkout -b "name" =====> Egy új branch ág létrehozása.
+5. git commit -m "something" =====> Commenteled, hogy mit változtattál.
+6. git push origin main =====> ???
+7. git push origin "branch name" =====> ???
+8. git remote add origin "https://github.com/youraccount/projectname" =====> ???
+9. git log =====> ???
+10. git remote set-url origin https://username:token@github.com/username/repository.git =====> ???
+11. git branch =====> Ellenőrizni tudjuk az águnk jelenlegi jogosultságát.
+12. git branch -m main =====> Modify-olod a branch ág jogosultságát és master helyett mostmár main lesz.
+13. git fetch origin master =====> ???
+14. git merge master =====> ???
 -------------------------------------------------------------------------------------------------------
 --------------------TERMINAL COMMANDS--------------------
-ls =====> A jelenlegi könyvtárban lévő fájlok és mappákat tudjuk kilistázni vele.
-cd /folder you want to go to/ =====> Könyvtárak között tudunk vele lépkedni.
-cd.. =====> Visszalépés a jelenlegi könyvtárból a följebb lévő könyvtárba.
-mkdir "folder name" =====> Egy új mappa létrehozása.
-rmdir "folder name" =====> Egy bizonyos mappa törlése.
-open "File.name" =====> Fájl megnyitása.
+1. ls =====> A jelenlegi könyvtárban lévő fájlok és mappákat tudjuk kilistázni vele.
+2. cd /folder you want to go to/ =====> Könyvtárak között tudunk vele lépkedni.
+3. cd.. =====> Visszalépés a jelenlegi könyvtárból a följebb lévő könyvtárba.
+4. mkdir "folder name" =====> Egy új mappa létrehozása.
+5. rmdir "folder name" =====> Egy bizonyos mappa törlése.
+6. open "File.name" =====> Fájl megnyitása.

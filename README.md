@@ -41,6 +41,8 @@ OraiMunka
 17. git merge main origin/main =====> ???
 18. git diff =====> ???
 19. git checkout -d "branch name"=====> Ha már merge-elve volt az ág
+20. git commit -a =====> ???
+21. git config --global core.editor "code wait" =====> ???
 
 --------------------TERMINAL COMMANDS--------------------
 1. ls =====> A jelenlegi könyvtárban lévő fájlok és mappákat tudjuk kilistázni vele.

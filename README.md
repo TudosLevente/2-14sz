@@ -20,3 +20,17 @@ OraiMunka
    *"git branch -m main" modify-olom és master helyett mostmár main lesz, ezt újra tudjuk ellenőrizni a "get branch" paranccsal*
    *"git fetch origin master"*
    *"git merge master"*
+
+*-------------------------------------------------------------------------------------------------------*
+*--------------------GIT COMMANDS--------------------*
+*git add .*
+*git init*
+*git checkout -b "name"*
+*git commit -m "something"*
+*git push origin main*
+*git push origin "branch name"*
+*git remote add origin "https://github.com/youraccount/projectname"*
+*git log*
+*git remote set-url origin https://username:token@github.com/username/repository.git*
+**
+**

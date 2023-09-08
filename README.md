@@ -21,7 +21,6 @@ OraiMunka
    *"git fetch origin master"*
    *"git merge master"*
 
--------------------------------------------------------------------------------------------------------
 --------------------GIT COMMANDS--------------------
 1. git clone https://github.com/accountname/projectname =====> Leklónozod a depository-t abba a mappába, amelyikben éppen vagy a terminálon belül.
 2. git add . =====> ???
@@ -37,7 +36,7 @@ OraiMunka
 12. git branch -m main =====> Modify-olod a branch ág jogosultságát és master helyett mostmár main lesz.
 13. git fetch origin master =====> ???
 14. git merge master =====> ???
--------------------------------------------------------------------------------------------------------
+
 --------------------TERMINAL COMMANDS--------------------
 1. ls =====> A jelenlegi könyvtárban lévő fájlok és mappákat tudjuk kilistázni vele.
 2. cd /folder you want to go to/ =====> Könyvtárak között tudunk vele lépkedni.

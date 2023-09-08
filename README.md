@@ -21,7 +21,7 @@ OraiMunka
    *"git fetch origin master"*
    *"git merge master"*
 
---------------------GIT COMMANDS--------------------
+--------------------GIT-TERMINAL COMMANDS--------------------
 1. git clone https://github.com/accountname/projectname =====> Leklónozod a depository-t abba a mappába, amelyikben éppen vagy a terminálon belül.
 2. git add . =====> ???
 3. git init =====> ???
@@ -31,12 +31,16 @@ OraiMunka
 7. git push origin "branch name" =====> ???
 8. git remote add origin "https://github.com/youraccount/projectname" =====> ???
 9. git log =====> ???
-10. git remote set-url origin https://username:token@github.com/username/repository.git =====> ???
-11. git branch =====> Ellenőrizni tudjuk az águnk jelenlegi jogosultságát.
-12. git branch -m main =====> Modify-olod a branch ág jogosultságát és master helyett mostmár main lesz.
-13. git fetch origin master =====> ???
-14. git merge master =====> ???
-15. git pull origin "branch name" =====> Egy branch ág lehúzása.
+10. git status =====> Látjuk, hogy melyik ágon vagyunk.
+11. git remote set-url origin https://username:token@github.com/username/repository.git =====> ???
+12. git branch =====> Ellenőrizni tudjuk az águnk jelenlegi jogosultságát.
+13. git branch -m main =====> Modify-olod a branch ág jogosultságát és master helyett mostmár main lesz.
+14. git fetch origin master =====> ???
+15. git merge master =====> ???
+16. git pull origin "branch name" =====> Egy branch ág lehúzása.
+17. git merge main origin/main =====> ???
+18. git diff =====> ???
+19. git checkout -d "branch name"=====> Ha már merge-elve volt az ág
 
 --------------------TERMINAL COMMANDS--------------------
 1. ls =====> A jelenlegi könyvtárban lévő fájlok és mappákat tudjuk kilistázni vele.

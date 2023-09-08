@@ -23,14 +23,28 @@ OraiMunka
 
 *-------------------------------------------------------------------------------------------------------*
 *--------------------GIT COMMANDS--------------------*
+*git clone https://github.com/accountname/projectname* =====> Leklónozod a depository-t abba a mappába, amelyikben éppen vagy a terminálon belül.
 *git add .*
 *git init*
-*git checkout -b "name"*
-*git commit -m "something"*
+*git checkout -b "name"* =====> Egy új branch ág létrehozása.
+*git commit -m "something"* =====> Commenteled, hogy mit változtattál.
 *git push origin main*
 *git push origin "branch name"*
 *git remote add origin "https://github.com/youraccount/projectname"*
 *git log*
 *git remote set-url origin https://username:token@github.com/username/repository.git*
+*git branch* =====> Ellenőrizni tudjuk az águnk jelenlegi jogosultságát.
+*git branch -m main* =====> Modify-olod a branch ág jogosultságát és master helyett mostmár main lesz.
+*git fetch origin master*
+*git merge master*
+*-------------------------------------------------------------------------------------------------------*
+*--------------------TERMINAL COMMANDS--------------------*
+**
+**
+**
+**
+**
+**
+**
 **
 **

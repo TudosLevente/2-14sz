@@ -36,6 +36,7 @@ OraiMunka
 12. git branch -m main =====> Modify-olod a branch ág jogosultságát és master helyett mostmár main lesz.
 13. git fetch origin master =====> ???
 14. git merge master =====> ???
+15. git pull origin "branch name" =====> Egy branch ág lehúzása.
 
 --------------------TERMINAL COMMANDS--------------------
 1. ls =====> A jelenlegi könyvtárban lévő fájlok és mappákat tudjuk kilistázni vele.
